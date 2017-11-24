@@ -57,7 +57,6 @@ def standard(df, user_list, feature_list):
     #归一化
     #X_std = pp.MinMaxScaler().fittransform(X)
     return pd.concat([pd.DataFrame(X_norm, index = df.index, columns = feature_list), df[user_list]], axis = 1)
-
 ```
 
 
