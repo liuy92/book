@@ -12,4 +12,5 @@
 * [【推荐--ctr】NFFM](3010-tui-8350-ctr-nffm.md)
 * [【推荐--ctr】xdeepfm](3010-tui-8350-ctr-xdeepfm.md)
 * [【推荐--ctr】DSSM](3010-tui-8350-ctr-dssm.md)
+* [【学习流程】数据科学家](3010-ji-chu-kuang-jia-3011-shu-ju-ke-xue-jia.md)
 
