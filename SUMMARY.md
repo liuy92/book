@@ -13,4 +13,7 @@
 * [【推荐--ctr】xdeepfm](3010-tui-8350-ctr-xdeepfm.md)
 * [【推荐--ctr】DSSM](3010-tui-8350-ctr-dssm.md)
 * [【学习流程】数据科学家](3010-ji-chu-kuang-jia-3011-shu-ju-ke-xue-jia.md)
+* [【知识积累】特征数和样本数](3010-zhi-shi-ji-lei-3011-te-zheng-shu-he-yang-ben-shu.md)
+* [【知识积累】attention](3010-zhi-shi-ji-lei-3011-attention.md)
+* [【知识学习】迁移学习](3010-zhi-shi-xue-xi-3011-qian-yi-xue-xi.md)
 
