@@ -16,4 +16,13 @@
 * [【知识积累】特征数和样本数](3010-zhi-shi-ji-lei-3011-te-zheng-shu-he-yang-ben-shu.md)
 * [【知识积累】attention](3010-zhi-shi-ji-lei-3011-attention.md)
 * [【知识学习】迁移学习](3010-zhi-shi-xue-xi-3011-qian-yi-xue-xi.md)
+* [【知识学习】生成模型和判别模型](3010-zhi-shi-xue-xi-3011-sheng-cheng-mo-xing-he-pan-bie-mo-xing.md)
+* [【知识学习】神经网络原理](3010-zhi-shi-xue-xi-3011-shen-jing-wang-luo-yuan-li.md)
+* [【知识学习】反作弊&异常检测](3010-zhi-shi-xue-xi-3011-yi-chang-jian-ce.md)
+* [【知识学习】推荐系统](3010-zhi-shi-xue-xi-3011-tui-jian-xi-tong.md)
+* [【知识学习】胶囊网络](3010-zhi-shi-xue-xi-3011-xiao-nang-wang-luo.md)
+* [【知识学习】多模态学习](3010-zhi-shi-xue-xi-3011-duo-mo-tai-xue-xi.md)
+* [【知识学习】数据增广&模仿学习](3010-zhi-shi-xue-xi-3011-yang-ben-kuo-zeng.md)
+* [【知识学习】半监督和无监督](3010-zhi-shi-xue-xi-3011-ban-jian-du-he-wu-jian-du.md)
+* [【知识学习】稀疏数据](3010-zhi-shi-xue-xi-3011-xi-shu-shu-ju.md)
 
