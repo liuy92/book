@@ -25,4 +25,5 @@
 * [【知识学习】数据增广&模仿学习](3010-zhi-shi-xue-xi-3011-yang-ben-kuo-zeng.md)
 * [【知识学习】半监督和无监督](3010-zhi-shi-xue-xi-3011-ban-jian-du-he-wu-jian-du.md)
 * [【知识学习】稀疏数据](3010-zhi-shi-xue-xi-3011-xi-shu-shu-ju.md)
+* [【shell操作】用户权限操作](shellcao-zuo-3011-yong-hu-quan-xian-cao-zuo.md)
 
