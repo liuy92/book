@@ -12,8 +12,8 @@ vim /etc/sudoer
 目的：在该目录下使用自己的账户名操作时，可以不加sudo
 
 ```
-chgrp -R liuyan22 liuyan22
-chown -R liuyan22 liuyan22
+chgrp -R ly lyl
+chown -R ly ly
 ```
 
 ### 切换到root权限下
@@ -21,8 +21,6 @@ chown -R liuyan22 liuyan22
 ```
 sudo -s
 ```
-
-
 
 
 
