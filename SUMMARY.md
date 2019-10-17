@@ -26,4 +26,5 @@
 * [【知识学习】半监督和无监督](3010-zhi-shi-xue-xi-3011-ban-jian-du-he-wu-jian-du.md)
 * [【知识学习】稀疏数据](3010-zhi-shi-xue-xi-3011-xi-shu-shu-ju.md)
 * [【知识学习】多目标](shellcao-zuo-3011-yong-hu-quan-xian-cao-zuo.md)
+* [【知识学习】fine-tune](3010-zhishi-xuexi-3011-fine-tune.md)
 
