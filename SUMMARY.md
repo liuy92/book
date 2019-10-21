@@ -27,4 +27,5 @@
 * [【知识学习】稀疏数据](3010-zhi-shi-xue-xi-3011-xi-shu-shu-ju.md)
 * [【知识学习】多目标](shellcao-zuo-3011-yong-hu-quan-xian-cao-zuo.md)
 * [【知识学习】fine-tune](3010-zhishi-xuexi-3011-fine-tune.md)
+* [【推荐系统】embedding的应用](3010-tui-jian-xi-tong-3011-embedding-de-ying-yong.md)
 
