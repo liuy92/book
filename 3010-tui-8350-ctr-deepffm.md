@@ -1,13 +1,10 @@
-# 【推荐--ctr】DeepFFM
+# 【推荐--ctr】感想总结
 
-deep&wide
+深度学习的核心功能
 
-* https://blog.csdn.net/qq\_40778406/article/details/90740399
-
-问题点：
-
-1. 为啥推荐系统不适合用dropout
-2. http://lindongding.com/2018/05/28/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0/
+* 模型设计组件化
+* 优化方法标准化
+* 设计优化模块化
 
 
 
