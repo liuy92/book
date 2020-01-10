@@ -29,4 +29,5 @@
 * [【知识学习】fine-tune](3010-zhishi-xuexi-3011-fine-tune.md)
 * [【推荐系统】embedding的应用](3010-tui-jian-xi-tong-3011-embedding-de-ying-yong.md)
 * [【知识学习】梯度下降](3010-zhi-shi-xue-xi-3011-ti-du-xia-jiang.md)
+* [【推荐--cvr】简述](3010-tui-8350-cvr-3011-jian-shu.md)
 
